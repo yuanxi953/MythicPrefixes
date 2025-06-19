@@ -67,7 +67,7 @@ unequip-actions:
 circle-actions:
   1:
     type: message
-    message: 'This is default message. Default prefix has equipped so prefix effect also activated!'
+    message: 'This is default message. Default prefix has equipped so prefix effect also activated!(This is a looping action)'
 # Premium version only
 click-actions:
   condition-not-meet:
